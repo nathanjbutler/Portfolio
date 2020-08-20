@@ -49,9 +49,11 @@ html {
 .hero-text h1 {
   font-weight: bold;
   font-size: calc(4em + 4vmin);
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 .hero-text p {
   font-size: calc(0.75em + 1vmin);
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 .social {
   display: block;
