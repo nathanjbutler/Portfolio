@@ -28,7 +28,7 @@ html {
 
 .hero-text h1 {
   font-weight: bold;
-  font-size: calc(0.75em + 4vmin);
+  font-size: calc(4em + 4vmin);
 }
 .hero-text p {
   font-size: calc(0.75em + 1vmin);
